@@ -1,0 +1,55 @@
+body {
+    font-family:"Times New Roman";
+    background-color: white;
+    font-family:Verdana;
+}
+
+.student-box {
+border: 2px solid gray;
+padding: 25px;
+margin: 25px;
+border-radius: 5px;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+font-family:Verdana;
+
+}
+
+.bluecolor{
+color:blue;
+}
+
+img{
+width:200px;
+height: 150px;
+border:solid 2px black;
+}
+
+
+a{
+text-decoration: none;
+color:blue;
+
+
+}
+a:hover{
+  text-decoration: underline;
+  color:red;
+}
+
+li{
+padding-left: 7px;
+}
+
+ul{
+padding-top: 30px;
+padding-right: 25px;
+float: right;
+
+}
+
+body {
+font-family:"Times New Roman";
+background-color: white;
+font-family:Verdana;
+text-align:right;
+}

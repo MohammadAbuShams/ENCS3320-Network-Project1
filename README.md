@@ -1,4 +1,4 @@
-# ENCS3320 Computer Networks - Project #1
+# ENCS3320 Computer Networks - Project1
 
 ## Overview
 This project involves creating various network applications using socket programming in Java. It consists of three main parts: network diagnostics commands, a client-server application that communicates over TCP and UDP, and a simple web server that responds to HTTP requests.
